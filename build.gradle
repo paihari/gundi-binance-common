@@ -8,7 +8,7 @@ plugins {
 
 group = 'com.gundi.binance'
 version = '0.0.1-SNAPSHOT'
-sourceCompatibility = '17'
+
 
 configurations {
 	compileOnly {
